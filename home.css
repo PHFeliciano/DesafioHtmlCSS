@@ -1,0 +1,22 @@
+header {
+    background-color: darkslategrey;
+    color: #fff;
+}
+
+.navbar-brand {
+    font-size: 38px;
+    font-weight: 600;
+}
+
+.nav-link {
+    color: #fff !important;
+}
+
+.img-card {
+    width: 318px;
+    height: 190px;
+}
+
+.bg-cinza {
+    background-color: #333533;
+}
